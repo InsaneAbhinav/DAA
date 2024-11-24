@@ -1,4 +1,4 @@
-#LAB Experiments
+# LAB Experiments
 Implement the activity selection problem to get a clear understanding of greedy approach.
 
 Get a detailed insight of dynamic programming approach by the implementation of Matrix Chain Multiplication problem and see the impact of parenthesis positioning on time requirements for matrix multiplication.
