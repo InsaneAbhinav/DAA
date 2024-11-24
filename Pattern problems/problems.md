@@ -1,1 +1,1 @@
-### Write any 30 pattern problem codes
+Write any 30 pattern problem codes
